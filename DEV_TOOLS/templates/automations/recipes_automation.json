@@ -6,10 +6,10 @@
     "subcategory": "CSC_AUTOMATION_UTILITY FUNTIONS",
     "skill_used": "computer",
     "difficulty": 1,
-	"autolearn": false,
+    "autolearn": false,
     "book_learn": [ [ "textbook_hack_robots", 2 ] ],
     "time": "1 m",
-	"tools": [ [ [ "civ_UPS_off", 1 ], [ "UPS_off", 1 ], [ "adv_UPS_off", 1 ] ] ],
+    "tools": [ [ [ "civ_UPS_off", 1 ], [ "UPS_off", 1 ], [ "adv_UPS_off", 1 ] ] ],
     "components": [
 	  [ [ "bot_utilibot", 1 ] ],
 	  [ [ "plastic_chunk", 1 ] ]
