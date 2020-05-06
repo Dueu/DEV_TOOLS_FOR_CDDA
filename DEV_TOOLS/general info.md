@@ -26,5 +26,5 @@ it's because those two comes from the same mod but in diferent folders
 
 Some items at the end of their line have the word: "(abstract)". 
 that means the object is not a actual object that the game recognize but the code it contains yes, 
-usually used as a way to create templates of a item to use the command '"looks_like": "example",', 
+usually used as a way to create templates of a item to use the command `"looks_like": "example",`, 
 a small thing that one shouldn't worry too much about but it's good to know if you're going to programm something based on my mods
