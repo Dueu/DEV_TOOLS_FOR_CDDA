@@ -1,6 +1,6 @@
 # ID'S GUIDE
 
-In the "ids of (...).md" files contains lists of the items and monsters, 
+In the "ids of (...).txt" files contains lists of the items and monsters, 
 in those lists the ids are divide in "id", "name" and "number of codeline":
 
 the "name" are the in-game names, what the player reads.
