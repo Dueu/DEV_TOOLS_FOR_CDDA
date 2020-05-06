@@ -11,7 +11,7 @@ and the "number of codeline" is the number where's the id of the object.
 
 
 
-And the lists are subcategorize in sub titles with a #name like:
+And the lists are subcategorize in sub titles with a sub title like:
 
 ### ITEMS/MONSTERS/CORPSES/ETC
 
