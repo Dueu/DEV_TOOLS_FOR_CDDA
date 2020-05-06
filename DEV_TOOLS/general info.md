@@ -9,7 +9,9 @@ the "id" is the code name of the objetc, used in programming.
 
 and the "number of codeline" is the number where's the id of the object.
 
-And the lists are subcategorize in sub titles with a sub title like: #Items/Monsters/Corpses/Etc.
+and the lists are subcategorize in sub titles with a sub title like: #Items/Monsters/Corpses/Etc.
+
+### FILES
 
 Every title represents a .json file in a specific folder of each mod with objects, 
 so every objetc or monster of the Modular Turrets mod are in the "ids of Modular Turrets".
